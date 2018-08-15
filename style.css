@@ -1,0 +1,16 @@
+h1{
+	color:orange;
+
+}
+body{
+	background-color: powderblue;
+}
+table{
+	border:5px orange;
+}
+	
+.TestClass {
+	width: 200px;
+	height: 200px;	
+	color: yellow;
+}
